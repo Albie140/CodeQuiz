@@ -1,1 +1,2 @@
 # CodeQuiz
+For this assignment, I created a code Quiz. This Quiz is for those who want to test their knowledge of JavaScript. This quiz contains 5 questions. The user will be able to take the quiz multiple times and review their high scores. 
